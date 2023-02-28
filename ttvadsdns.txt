@@ -1,0 +1,14 @@
+0.0.0.0 mew.twitch.tv
+0.0.0.0 video-weaver.ord02.hls.ttvnw.net
+0.0.0.0 https://hls.ttvnw.net
+0.0.0.0 http://hls.ttvnw.net
+0.0.0.0 https://hls.ttvnw.net
+0.0.0.0 http://hls.ttvnw.net
+0.0.0.0 www.hls.ttvnw.net
+0.0.0.0 hls.ttvnw.net
+0.0.0.0 https://static.twitchcdn.net
+0.0.0.0 http://static.twitchcdn.net
+0.0.0.0 https://www.static.twitchcdn.net
+0.0.0.0 http://www.static.twitchcdn.net
+0.0.0.0 www.static.twitchcdn.net
+0.0.0.0 static.twitchcdn.net
